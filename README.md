@@ -1,4 +1,33 @@
-### Hi there 👋
+## 관심 분야
+
+### WEB, Mobile
+
+* Front
+> HTML5, CSS3, Javascript  
+> Broswer Web API  
+> TypeScript  
+> React.js  
+> Flutter
+
+* Backend
+> Node.js(express, koa)  
+> mongoDB  
+> MySQL  
+
+### Cloud
+> AWS  
+> serverless service  
+
+### Data
+> Numpy, Pandas etc
+
+---
+
+## Links
+
+* 기술 블로그 [https://darrengwon.tistory.com/](https://darrengwon.tistory.com/)
+* 메일 [anatomy1545@gmail.com](anatomy1545@gmail.com)
+
 
 <!--
 **DarrenKwonDev/DarrenKwonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
