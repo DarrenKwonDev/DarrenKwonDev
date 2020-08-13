@@ -1,18 +1,17 @@
-## 관심 분야
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarrenKwonDev)](https://hits.seeyoufarm.com)
+
+## Interest
 
 ### WEB, Mobile
 
 * Front
-> HTML5, CSS3, Javascript  
-> Broswer Web API  
+> HTML5, CSS3, Javascript, 
 > TypeScript  
 > React.js  
 > Flutter
 
 * Backend
-> Node.js(express, koa)  
-> mongoDB  
-> MySQL  
+> Node.js(express, koa), mongoDB, MySQL  
 
 ### Cloud
 > AWS  
