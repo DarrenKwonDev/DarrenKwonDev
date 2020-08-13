@@ -21,8 +21,6 @@
 ### Data
 > Numpy, Pandas etc
 
----
-
 ## Links
 
 * 기술 블로그 [https://darrengwon.tistory.com/](https://darrengwon.tistory.com/)
