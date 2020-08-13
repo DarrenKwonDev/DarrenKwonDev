@@ -7,7 +7,7 @@
 * Front
 > HTML5, CSS3, Javascript, 
 > TypeScript  
-> React.js  
+> React.js, Next.js  
 > Flutter
 
 * Backend
