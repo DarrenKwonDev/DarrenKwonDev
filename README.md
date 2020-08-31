@@ -19,8 +19,9 @@
 > AWS  
 > serverless service  
 
-### Data
-> Numpy, Pandas etc
+### Machine Learning
+> python ecosystem(Tensorflow, scikit-learn etc...)  
+> NLP
 
 ## Links
 
