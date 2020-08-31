@@ -17,7 +17,7 @@
 
 ### Cloud
 > AWS  
-> serverless service  
+> Data engineering architecture
 
 ### Machine Learning
 > python ecosystem(Tensorflow, scikit-learn etc...)  
