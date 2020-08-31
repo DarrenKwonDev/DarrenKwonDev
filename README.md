@@ -16,12 +16,11 @@
 > Node.js(express, koa), mongoDB, MySQL  
 
 ### Cloud
-> AWS  
-> Data engineering architecture
+> AWS 
+> Google Cloud Platform
 
 ### Machine Learning
 > python ecosystem(Tensorflow, scikit-learn etc...)  
-> NLP
 
 ## Links
 
