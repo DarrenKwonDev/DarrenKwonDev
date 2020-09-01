@@ -15,12 +15,16 @@
 * Backend
 > Node.js(express, koa), mongoDB, MySQL  
 
-### Cloud
+### Cloud  
 > AWS 
 > Google Cloud Platform
 
+### Data Science
+> Pandas, numpy...
+
 ### Machine Learning
 > python ecosystem(Tensorflow, scikit-learn etc...)  
+> NLP (Word2Vec, NLTK, KoNLPy)
 
 ## Links
 
