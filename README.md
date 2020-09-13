@@ -10,7 +10,7 @@
 > HTML5, CSS3, Javascript, 
 > TypeScript  
 > React.js, Next.js  
-> React-Native
+> React-Native  
 > Flutter
 
 * Backend
