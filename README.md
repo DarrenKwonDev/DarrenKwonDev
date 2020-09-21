@@ -16,6 +16,10 @@
 * Backend
 > Node.js(express, koa), mongoDB, MySQL  
 
+### OS
+> Ubuntu  
+> CentOS
+
 ### Cloud  
 > AWS 
 > Google Cloud Platform
