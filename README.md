@@ -14,7 +14,7 @@
 > Flutter
 
 * Backend
-> Node.js(express, koa), mongoDB, MySQL  
+> Node.js(express, nest.js), mongoDB, MySQL  
 
 ### OS
 > Ubuntu  
