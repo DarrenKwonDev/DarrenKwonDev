@@ -18,7 +18,6 @@
 
 ### OS
 > Ubuntu  
-> CentOS
 
 ### Cloud  
 > AWS 
