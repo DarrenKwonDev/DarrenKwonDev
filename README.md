@@ -29,7 +29,7 @@
 
 ### Machine Learning
 > python ecosystem(Tensorflow, scikit-learn etc...)  
-> NLP (Word2Vec, NLTK, KoNLPy)
+> NLP 
 
 ## Links
 
