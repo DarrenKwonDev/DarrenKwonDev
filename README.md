@@ -16,6 +16,7 @@
 * Backend
 > Node.js(express, nest.js), mongoDB, MySQL  
 > Django
+> GraphQL
 
 ### OS
 > Ubuntu  
