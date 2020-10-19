@@ -10,12 +10,9 @@
 > HTML5, CSS3, Javascript, 
 > TypeScript  
 > React.js, Next.js  
-> React-Native  
-> Flutter
 
 * Backend
 > Node.js(express, nest.js), mongoDB, MySQL  
-> Django  
 > GraphQL
 
 ### OS
@@ -25,10 +22,8 @@
 > AWS 
 > Google Cloud Platform
 
-### Data Science
+### Data Science && Machine Learning
 > Pandas, numpy...
-
-### Machine Learning
 > python ecosystem(Tensorflow, scikit-learn etc...)  
 > NLP 
 
