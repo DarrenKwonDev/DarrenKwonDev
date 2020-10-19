@@ -7,7 +7,6 @@
 ### WEB, Mobile
 
 * Front
-> HTML5, CSS3, Javascript, 
 > TypeScript  
 > React.js, Next.js  
 
@@ -17,10 +16,6 @@
 
 ### OS
 > Ubuntu  
-
-### Cloud  
-> AWS 
-> Google Cloud Platform
 
 ### Data Science && Machine Learning
 > Pandas, numpy...
