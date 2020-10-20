@@ -11,7 +11,8 @@
 > React.js, Next.js  
 
 * Backend
-> Node.js(express, nest.js), mongoDB, MySQL  
+> Node.js(express, nest.js)   
+> mongoDB, MySQL, PostgreSQL    
 > GraphQL
 
 ### OS
