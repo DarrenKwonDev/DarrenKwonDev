@@ -25,8 +25,8 @@
 
 ## Links
 
-* [blog](images/tistory.png) [https://darrengwon.tistory.com](https://darrengwon.tistory.com)
-* [mail](images/gmail.png) [anatomy1545@gmail.com](anatomy1545@gmail.com)
+* ![blog](images/tistory.png) [https://darrengwon.tistory.com](https://darrengwon.tistory.com)
+* ![mail](images/gmail.png) [anatomy1545@gmail.com](anatomy1545@gmail.com)
 
 
 <!--
