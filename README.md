@@ -13,7 +13,7 @@
 * Backend
 > Node.js(express, nest.js)   
 > mongoDB, MySQL, PostgreSQL    
-> GraphQL
+> GraphQL with Apollo
 
 ### OS
 > Ubuntu  
@@ -25,8 +25,8 @@
 
 ## Links
 
-* 기술 블로그 [https://darrengwon.tistory.com/](https://darrengwon.tistory.com/)
-* 메일 [anatomy1545@gmail.com](anatomy1545@gmail.com)
+* [blog](images/tistory.png) [https://darrengwon.tistory.com](https://darrengwon.tistory.com)
+* [mail](images/gmail.png) [anatomy1545@gmail.com](anatomy1545@gmail.com)
 
 
 <!--
