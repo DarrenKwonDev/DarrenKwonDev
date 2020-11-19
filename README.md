@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenKwonDev&layout=compact)](https://github.com/DarrenKwonDev)  
 
+👋 Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
+
 ## Interest
 
 ### WEB, Mobile
