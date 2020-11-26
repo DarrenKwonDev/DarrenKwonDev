@@ -15,7 +15,8 @@
 * Backend
 > Node.js(express, nest.js)   
 > mongoDB, MySQL, PostgreSQL    
-> GraphQL with Apollo
+> GraphQL with Apollo  
+> Golang, Gin  
 
 ### OS
 > Ubuntu  
