@@ -31,8 +31,8 @@
 ## Links
 
 
-* [Tech blog : https://darrengwon.tistory.com](https://darrengwon.tistory.com)
-* [Mail : anatomy1545@gmail.com](anatomy1545@gmail.com)
+* [Tech blog(Kor) : https://darrengwon.tistory.com](https://darrengwon.tistory.com)  
+* [Mail : anatomy1545@gmail.com](anatomy1545@gmail.com)  
 
 
 <!--
