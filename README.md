@@ -22,13 +22,9 @@
 > GraphQL with Apollo  
 > Golang, Gin  
 
-### OS
-> Ubuntu  
-
-### Data Science && Machine Learning
-> Pandas, numpy...
-> python ecosystem(Tensorflow, scikit-learn etc...)  
-> NLP 
+### BlockChain
+> Solidity for smart Tx  
+> geth  
 
 ## Links
 
