@@ -3,8 +3,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenKwonDev&layout=compact)](https://github.com/DarrenKwonDev)  
 
 👋 Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
-👨‍💻 I’m currently learning *GO* and *Nest*  
-👨 developer of [cineps community](https://cineps.net) 
+👨‍💻 I’m currently learning **GO** and **Nest**  
+👨 developer of [cineps community](https://cineps.net)  
+👨 developer of fuse the seoul  
+
 
 ## Interest
 
