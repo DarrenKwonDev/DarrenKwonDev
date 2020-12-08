@@ -5,8 +5,8 @@
 👋 Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
 👨‍💻 I’m currently learning **GO** and **Nest**  
 👨 developer of [cineps community](https://cineps.net)  
-👨 developer of fuse the seoul  
-
+🔭 I’m currently working on ... edupopkorn web project  
+🔭 I’m currently working on ... fuse the seoul project  
 
 ## Interest
 
