@@ -22,9 +22,10 @@
 > GraphQL with Apollo  
 > Golang, Gin  
 
-### BlockChain
-> Solidity for smart Tx  
-> geth  
+### OS  
+
+> Ubuntu  
+
 
 ## Links
 
