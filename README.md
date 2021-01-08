@@ -28,7 +28,7 @@
 
 ### ML
 
-> Tensorflow.js  
+> Tensorflow.js/py    
 
 ## Links
 
