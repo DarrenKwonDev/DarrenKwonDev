@@ -17,7 +17,7 @@
 > React.js, Next.js  
 
 * Backend
-> Node.js(express, nest.js)   
+> Node.js(express, fastify, nest.js)   
 > mongoDB, MySQL, PostgreSQL    
 > GraphQL with Apollo  
 > Golang, Gin  
