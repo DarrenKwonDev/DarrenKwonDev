@@ -22,13 +22,13 @@
 > GraphQL with Apollo  
 > Golang, Gin  
 
-### OS  
+| | |
+|--|--|
+|OS|Ubuntu|
+|ML|Tensroflow.js/py|
+|Data Viz|D3.js|
 
-> Ubuntu  
 
-### ML
-
-> Tensorflow.js/py    
 
 ## Links
 
