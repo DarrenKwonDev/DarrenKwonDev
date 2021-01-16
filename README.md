@@ -22,7 +22,7 @@
 > GraphQL with Apollo  
 > Golang, Gin  
 
-| | |
+|Field|Skill Set|
 |--|--|
 |OS|Ubuntu|
 |ML|Tensroflow.js/py|
