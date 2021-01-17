@@ -34,7 +34,7 @@
 
 
 * [Tech blog(Kor) : https://darrengwon.tistory.com](https://darrengwon.tistory.com)  
-* [Tech blog(Eng) Not Yet... : https://darren.hashnode.dev/](https://darren.hashnode.dev/)  
+~~[Tech blog(Eng) : https://darren.hashnode.dev/](https://darren.hashnode.dev/)~~
 * Mail : anatomy1545@gmail.com  
 * ProtonMail : amkor25@protonmail.ch  
 
