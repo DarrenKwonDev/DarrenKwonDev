@@ -4,7 +4,7 @@
 
 👋 Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
 👨‍💻 I’m currently learning **GO** and **Nest**  
-👨 developer of [cineps community](https://cineps.net)  
+👨 developer of [cineps community](https://cineps.net) - *currently not working*  
 🔭 I’m currently working on ... edupopkorn web project  
 🔭 I’m currently working on ... fuse the seoul project  
 
@@ -26,7 +26,7 @@
 |--|--|
 |OS|Ubuntu|
 |ML|Tensroflow.js/py|
-|Data Viz|D3.js, chart.js|
+|Viz|D3.js, chart.js|
 
 
 
