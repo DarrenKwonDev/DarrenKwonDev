@@ -5,6 +5,7 @@
 👋 Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
 👨‍💻 I’m currently learning **GO** and **Nest**  
 👨 developer of [cineps community](https://cineps.net) - *currently not working*  
+💼 벤처기업협회 SVI pswc 21기  
 🔭 I’m currently working on ... fuze project  
 
 ## Interest
