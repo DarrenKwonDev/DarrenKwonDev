@@ -15,12 +15,12 @@
 * Front
 > TypeScript  
 > React.js, Next.js  
+> React-Native  
 
 * Backend
 > Node.js(express, fastify, nest.js)   
-> mongoDB, MySQL, PostgreSQL    
+> mongoDB, MySQL, mariaDB  
 > GraphQL with Apollo  
-> Golang, Gin  
 
 |Field|Skill Set|
 |--|--|
