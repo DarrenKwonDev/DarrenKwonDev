@@ -26,7 +26,8 @@
 |--|--|
 |OS|Ubuntu|
 |ML|Tensroflow.js/py|
-|Viz|D3.js, chart.js|
+|Viz|D3.js, chart.js|  
+|api docs|Swagger|
 
 
 
