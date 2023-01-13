@@ -15,6 +15,6 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 
 ## Other Experience
 
-- xineps : 벤처기업협회 SVI pswc 21기 수료  
-- xineps : 예비창업패키지 선발   
-- goi : fundraised by Kakao Ventures  
+- xineps : (co-founder) 벤처기업협회 SVI pswc 21기 수료  
+- xineps : (co-founder) 예비창업패키지 선발   
+- goi : (part time SWE) fundraised by Kakao Ventures  
