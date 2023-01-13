@@ -12,7 +12,6 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 ## Work Experiences
 
 - business canvas (2021.09 ~ 2023.01)
-  - SWE
   - front DX dev & backend engineering
 
 ## Other Experiences
