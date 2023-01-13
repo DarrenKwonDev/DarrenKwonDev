@@ -15,7 +15,7 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
   - SWE
   - front DX dev & backend engineering
 
-## Other Experience
+## Other Experiences
 
 - xineps
   - co-founder.
