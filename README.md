@@ -6,7 +6,8 @@
 
 ## About me
 
-Hello. I'm a self-taught programmer. I majored in venture business and interest in programming  
+Hello. I'm a self-taught programmer.  
+I majored in venture business and interest in programming.  
 you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88.korean.resume.pdf)
 
 ## Work Experiences
