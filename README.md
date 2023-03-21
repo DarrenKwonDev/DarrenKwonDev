@@ -6,9 +6,9 @@
 
 ## About me
 
-Hello. I'm a self-taught programmer.  
-I majored in venture business and interest in programming.  
-you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88.korean.resume.pdf)
+I'm a self-taught programmer with two entrepreneurship experiences.  
+Study and develop to make a business impact.  
+you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88.korean.resume.pdf)  
 
 ## Work Experiences
 
