@@ -17,9 +17,9 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 
 ## Other Experiences
 
+- 벤처기업협회 SVI pswc 21기 수료  
 - xineps
   - co-founder.
-  - 벤처기업협회 SVI pswc 21기 수료  
   - 예비창업패키지 선발 및 우수 수료   
 - Naver AI camp (2023.03~2023.08)
   - 추천 시스템(Recommender System)
