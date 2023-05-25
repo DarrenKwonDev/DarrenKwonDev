@@ -21,7 +21,6 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 - xineps
   - co-founder.
   - 예비창업패키지 선발 및 우수 수료   
-- goi
-  - TIPS(민간투자주도형 기술창업지원)  
-- Naver AI camp (2023.03~2023.08)
-  - 추천 시스템(Recommender System)
+- TIPS(민간투자주도형 기술창업지원) 지원 스타트업 자문  
+- Naver AI camp (2023.03~2023.08)  
+  - 추천 시스템(Recommender System)  
