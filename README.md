@@ -12,8 +12,8 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 
 ## Work Experiences
 
-- business canvas (2021.09 ~ 2023.01)
-  - front DX dev & backend engineering
+- business canvas  
+  - front DX dev & backend engineering  
 
 ## Other Experiences
 
@@ -21,5 +21,7 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 - xineps
   - co-founder.
   - 예비창업패키지 선발 및 우수 수료   
+- goi
+  - tips(민간투자주도형 기술창업지원)  
 - Naver AI camp (2023.03~2023.08)
   - 추천 시스템(Recommender System)
