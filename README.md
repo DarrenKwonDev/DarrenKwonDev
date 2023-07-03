@@ -14,6 +14,7 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 
 - business canvas  
   - front DX dev & backend engineering  
+- Freelancing as a fundraising assistant for an early stage company  
 
 ## Other Experiences
 
