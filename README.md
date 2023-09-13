@@ -15,13 +15,12 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 - business canvas  
   - front DX dev & backend engineering  
 - Freelancer  
-  - Preparing to start a System Integration business  
 
 ## Other Experiences
 
 - 벤처기업협회 SVI pswc 21기 수료  
 - xineps
-  - co-founder.
+  - co-founder. tech lead
   - 예비창업패키지 선발 및 우수 수료   
 - TIPS(민간투자주도형 기술창업지원) 지원 스타트업 기술 자문 (합격)  
 - Naver AI camp (2023.03~2023.08)  
