@@ -26,4 +26,4 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 - Naver AI camp (2023.03~2023.08)  
   - 추천 시스템(Recommender System)  
 - SQLD
-- 투자자산운용사
+- 투자자산운용사(Certified Investment Manager)
