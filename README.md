@@ -25,3 +25,5 @@ you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/bl
 - TIPS(민간투자주도형 기술창업지원) 지원 스타트업 기술 자문 (합격)  
 - Naver AI camp (2023.03~2023.08)  
   - 추천 시스템(Recommender System)  
+- SQLD
+- 투자자산운용사
