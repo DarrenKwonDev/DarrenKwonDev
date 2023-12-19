@@ -11,12 +11,6 @@ Study and develop to make a business impact.
 Interested in programming in the field of game, trading.  
 you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88.korean.resume.pdf)  
 
-## Work Experiences
-
-- business canvas  
-  - front DX dev & backend engineering  
-- Freelancer  
-
 ## Other Experiences
 
 - 벤처기업협회 SVI pswc 21기 수료  
