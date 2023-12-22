@@ -7,7 +7,7 @@
 ## About me
 
 I'm a programmer with two entrepreneurship experiences.  
-Study and develop to make a business impact.  
-Interested in programming in the field of game, trading.  
+Study and develop tech to make a business impact. 
+But also focus on low-level details to avoid pitfalls of leaky abstraction.
 you can check my resume [here](https://github.com/DarrenKwonDev/resume/blob/master/cv.pdf)  
 
