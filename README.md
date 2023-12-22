@@ -9,7 +9,7 @@
 I'm a programmer with two entrepreneurship experiences.  
 Study and develop to make a business impact.  
 Interested in programming in the field of game, trading.  
-you can check my resume [here (kor) ](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88.korean.resume.pdf)  
+you can check my resume [here](https://github.com/DarrenKwonDev/resume/blob/master/cv.pdf)  
 
 ## Other Experiences
 
