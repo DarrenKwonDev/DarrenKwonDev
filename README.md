@@ -10,7 +10,8 @@ I'm a programmer with two entrepreneurship experiences.
 Study and develop tech to make a business impact.  
 But also focus on low-level details to avoid pitfalls of leaky abstraction.  
 
-## CV
+## etc
+[📝 blog](https://darrenkwondev.github.io/)  
 
-[here](https://github.com/DarrenKwonDev/resume/blob/master/cv.pdf)  
+[📄 cv](https://github.com/DarrenKwonDev/resume/blob/master/cv.pdf)    
 
