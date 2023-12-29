@@ -10,5 +10,11 @@ I'm a programmer with two entrepreneurship experiences.
 Study and develop tech to make a business impact.  
 But also focus on low-level details to avoid pitfalls of leaky abstraction.  
 
+## posts
+
+- [Inside the Kernel - How Load Average is Calculated](https://darrenkwondev.github.io/posts/2023-12-28_kernel_study_03.md/)  
+
 ## etc
 [blog](https://darrenkwondev.github.io/)  
+
+
