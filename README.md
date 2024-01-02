@@ -12,7 +12,8 @@ But also focus on low-level details to avoid pitfalls of leaky abstraction.
 
 ## posts
 
-- [Inside the Kernel - How Load Average is Calculated](https://darrenkwondev.github.io/posts/2023-12-28_kernel_study_03.md/)  
+- [Inside the Kernel - How Load Average is Calculated](https://darrenkwondev.github.io/posts/2023-12-28_kernel_study_03.md/)
+- [Kubernetes the Hard Way: testimonial](https://darrenkwondev.github.io/posts/2023-12-31_kubernetes-the-hard-way-explained/)  
 
 ## etc
 [blog](https://darrenkwondev.github.io/)  
