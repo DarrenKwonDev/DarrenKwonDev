@@ -6,9 +6,9 @@
 
 ## About me
 
-I'm a programmer with two entrepreneurship experiences.  
-Study and develop tech to make a business impact.  
-But also focus on low-level details to avoid pitfalls of leaky abstraction.  
+I am a programmer with two entrepreneurial experiences.  
+I focus on studying and developing technology to make a business impact,  
+while also paying attention to low-level details to avoid the pitfalls of leaky abstraction  
 
 ## recent posts
 
