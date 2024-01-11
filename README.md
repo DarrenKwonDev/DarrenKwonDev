@@ -17,6 +17,6 @@ while also paying attention to low-level details to avoid the pitfalls of [leaky
 - [GCP에서 저렴하게 교육용 쿠버네티스를 운용하는 방법](https://darrenkwondev.github.io/posts/2024-01-06-cheap_k8s/)  
 
 ## etc
-[blog](https://darrenkwondev.github.io/)  
+[blog](https://darrenkwondev.github.io/)  |  [cv](https://github.com/DarrenKwonDev/resume/blob/master/%EA%B6%8C%EC%88%98%ED%9B%88_cv_kor.pdf)  
 
 
