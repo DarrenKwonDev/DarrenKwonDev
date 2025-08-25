@@ -9,4 +9,4 @@ while also paying attention to low-level details to avoid the pitfalls of [leaky
 | time | contents | 
 | --- | --- | 
 | ~ 28.07.2025 | working as a system trading developer |
-|28.07.2025 ~ NOW | transitioned to retail trader on crypto CEX |
+|28.07.2025 ~ NOW | onchain trader |
