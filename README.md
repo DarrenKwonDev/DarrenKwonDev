@@ -13,6 +13,4 @@ I have few on github because I mostly write code that makes money
 | ~ 28.07.2025 | working as a system trading developer |
 |28.07.2025 ~ NOW | onchain trader (liquidation, arb, market marking, etc...) |
 
-## current status  
 
-build custom solana TPU client!   
